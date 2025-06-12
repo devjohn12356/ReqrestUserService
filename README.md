@@ -14,7 +14,7 @@ This project demonstrates a clean and testable .NET component that integrates wi
 
 ### 1. Clone the Repository
 
-git clone https://github.com/devjohn12356/ReqresUserService.git
+git clone https://github.com/devjohn12356/ReqrestUserService
 cd ReqresUserService
 
 ### 2. Build Project
